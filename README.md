@@ -18,6 +18,7 @@
           document.getElementsByTagName("head")[0].appendChild(link);
       </script>
 - 📫 How to reach me www.linkedin.com/in/kiran-deo-yadav-a9a72a252
+- article on knn https://www.linkedin.com/pulse/k-nearest-neighbors-algorithm-kiran-dev-yadav
 
 <!---
 Aaghora/Aaghora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
