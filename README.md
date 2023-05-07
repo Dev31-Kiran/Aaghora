@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaghora
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently working Machine learning, Deep learning, Computer vision, NLP, Statics
+- 🌱 I’m currently working with Machine learning, Deep learning, Computer vision, NLP, Statics
 
 - 💞️ I’m looking to collaborate on ...
 - DataScience Certificate-<a href="https://www.testdome.com/certificates/a645ac2169fc4224b0155951e80ad0fc" class="testdome-certificate-stamp gold">
