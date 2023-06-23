@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaghora
+- 👋 Hi, I’m @Dev
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently working with Machine learning, Deep learning, Computer vision, NLP, Statics
 
